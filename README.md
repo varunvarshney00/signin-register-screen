@@ -1,3 +1,20 @@
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-31 at 12 15 03](https://github.com/user-attachments/assets/9e66ae15-26cc-400a-878e-5bb00405af26)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-31 at 12 16 11](https://github.com/user-attachments/assets/c2386436-8ca6-46d1-b361-0c1d9ba1bcea)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-31 at 12 16 14](https://github.com/user-attachments/assets/e823b2fb-ed1a-4329-a4be-ccc7e3bd09bb)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-31 at 12 16 17](https://github.com/user-attachments/assets/4e4969d0-2a23-4e8c-bd44-44229fbbdc53)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-31 at 12 16 41](https://github.com/user-attachments/assets/5da8f819-cc31-4d43-b8c4-affe6bb2a77f)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-31 at 12 16 44](https://github.com/user-attachments/assets/503fe188-cddd-439c-b864-db5d74763500)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-31 at 12 16 49](https://github.com/user-attachments/assets/af4a47af-7b42-4269-90d4-1b4559871abb)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-31 at 12 16 54](https://github.com/user-attachments/assets/10d6f2b7-e593-4563-9928-2eb0e38f1b0a)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-31 at 12 17 19](https://github.com/user-attachments/assets/d1679cbc-94c8-41dd-8fff-16e615bc4ad8)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-31 at 12 20 18](https://github.com/user-attachments/assets/1a2a4711-9b66-4abd-b86d-b300c5e53a27)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-31 at 12 20 21](https://github.com/user-attachments/assets/99fb4e03-881b-4ffd-bad2-ee28b310332d)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-31 at 12 20 35](https://github.com/user-attachments/assets/5f61b15d-873f-4146-bd74-16767fd783ab)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-31 at 12 20 39](https://github.com/user-attachments/assets/b54d1993-0859-485a-b49d-7ee8704085a4)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-12-31 at 12 20 53](https://github.com/user-attachments/assets/6539d988-461a-43eb-8f57-ee2c000c5b79)
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
